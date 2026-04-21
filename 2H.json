@@ -1,47 +1,47 @@
 {
   "Mon": [
-    { "code": "25CSE102", "type": "practical" },
-    { "code": "25CSE102", "type": "practical" },
-    { "code": "25CSE102" },
-    { "code": "25ECE101" },
-    { "code": "25CHY104" },
+    { "code": "25CSE102", "alias": "IPP", "type": "practical" },
+    { "code": "25CSE102", "alias": "IPP", "type": "practical" },
+    { "code": "25CSE102", "alias": "IPP" },
+    { "code": "25ECE101", "alias": "ADLD" },
+    { "code": "25CHY104", "alias": "CHY" },
     { "type": "free" },
-    { "code": "25ECE101", "type": "sl" }
+    { "code": "25ECE101", "alias": "ADLD", "type": "sl" }
   ],
   "Tue": [
-    { "code": "25MEC122" },
-    { "code": "25MEC122" },
-    { "code": "25MAT106" },
-    { "code": "25BTY111" },
-    { "code": "25CHY104" },
-    { "code": "25CHY104", "type": "sl" },
-    { "code": "25CSE102", "type": "sl" }
+    { "code": "25MEC122", "alias": "EV","type": "practical" },
+    { "code": "25MEC122", "alias": "EV","type": "practical" },
+    { "code": "25MAT106", "alias": "MAT" },
+    { "code": "25BTY111", "alias": "BIO" },
+    { "code": "25CHY104", "alias": "CHY" },
+    { "code": "25CHY104", "alias": "CHY", "type": "sl" },
+    { "code": "25CSE102", "alias": "IPP", "type": "sl" }
   ],
   "Wed": [
-    { "code": "25CIV104" },
-    { "code": "25CSE102" },
-    { "code": "25CHY104", "type": "practical" },
-    { "code": "25CHY104", "type": "practical" },
-    { "code": "25MAT106" },
-    { "code": "25EEE102" },
+    { "code": "25CIV104", "alias": "ESS" },
+    { "code": "25CSE102", "alias": "IPP" },
+    { "code": "25CHY104", "alias": "CHY", "type": "practical" },
+    { "code": "25CHY104", "alias": "CHY", "type": "practical" },
+    { "code": "25MAT106", "alias": "MAT" },
+    { "code": "25EEE102", "alias": "EEE" },
     { "type": "free" }
   ],
   "Thu": [
-    { "code": "25ECE101" },
-    { "code": "25EEE102" },
-    { "code": "25MAT106" },
-    { "code": "25CIV104" },
-    { "code": "25ECE101", "type": "practical" },
-    { "code": "25ECE101", "type": "practical" },
-    { "code": "25EEE102", "type": "sl" }
+    { "code": "25ECE101", "alias": "ADLD" },
+    { "code": "25EEE102", "alias": "EEE" },
+    { "code": "25MAT106", "alias": "MAT" },
+    { "code": "25CIV104", "alias": "ESS" },
+    { "code": "25ECE101", "alias": "ADLD", "type": "practical" },
+    { "code": "25ECE101", "alias": "ADLD", "type": "practical" },
+    { "code": "25EEE102", "alias": "EEE", "type": "sl" }
   ],
   "Fri": [
-    { "code": "25EEE102" },
-    { "code": "25MAT106" },
-    { "code": "25CHY104" },
-    { "code": "25MEC122" },
+    { "code": "25EEE102", "alias": "EEE" },
+    { "code": "25MAT106", "alias": "MAT" },
+    { "code": "25CHY104", "alias": "CHY" },
+    { "code": "25MEC122", "alias": "EV" },
     { "type": "free" },
     { "type": "free" },
-    { "type": "free" }
+    { "code": "COMMUNITY ENGAGEMENT", "alias": "CE" }
   ]
 }
