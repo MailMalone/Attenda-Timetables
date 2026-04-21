@@ -1,0 +1,47 @@
+{
+  "Mon": [
+    { "code": "25CSE102", "type": "practical" },
+    { "code": "25CSE102", "type": "practical" },
+    { "code": "25CSE102" },
+    { "code": "25ECE101" },
+    { "code": "25CHY104" },
+    { "type": "free" },
+    { "code": "25ECE101", "type": "sl" }
+  ],
+  "Tue": [
+    { "code": "25MEC122" },
+    { "code": "25MEC122" },
+    { "code": "25MAT106" },
+    { "code": "25BTY111" },
+    { "code": "25CHY104" },
+    { "code": "25CHY104", "type": "sl" },
+    { "code": "25CSE102", "type": "sl" }
+  ],
+  "Wed": [
+    { "code": "25CIV104" },
+    { "code": "25CSE102" },
+    { "code": "25CHY104", "type": "practical" },
+    { "code": "25CHY104", "type": "practical" },
+    { "code": "25MAT106" },
+    { "code": "25EEE102" },
+    { "type": "free" }
+  ],
+  "Thu": [
+    { "code": "25ECE101" },
+    { "code": "25EEE102" },
+    { "code": "25MAT106" },
+    { "code": "25CIV104" },
+    { "code": "25ECE101", "type": "practical" },
+    { "code": "25ECE101", "type": "practical" },
+    { "code": "25EEE102", "type": "sl" }
+  ],
+  "Fri": [
+    { "code": "25EEE102" },
+    { "code": "25MAT106" },
+    { "code": "25CHY104" },
+    { "code": "25MEC122" },
+    { "type": "free" },
+    { "type": "free" },
+    { "type": "free" }
+  ]
+}
