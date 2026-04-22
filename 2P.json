@@ -1,0 +1,50 @@
+{
+  "section": "P",
+  "department": "RAI",
+  "room": "LC37",
+  "Mon": [
+    { "code": "25CSE102", "alias": "IPP", "type": "practical" },
+    { "code": "25CSE102", "alias": "IPP", "type": "practical" },
+    { "code": "25MAT106", "alias": "MAT" },
+    { "code": "25HSS131", "alias": "CE LAB", "type": "practical" },
+    { "code": "25PHY102", "alias": "PHY", "type": "practical" },
+    { "code": "25PHY102", "alias": "PHY", "type": "practical" },
+    { "code": "25EEE102", "alias": "EEE", "type": "sl" }
+  ],
+  "Tue": [
+    { "code": "25ECE101", "alias": "ADLD", "type": "practical" },
+    { "code": "25ECE101", "alias": "ADLD", "type": "practical" },
+    { "code": "25EEE102", "alias": "EEE" },
+    { "code": "25MAT106", "alias": "MAT" },
+    { "code": "25PHY102", "alias": "PHY" },
+    { "type": "free" },
+    { "type": "free" }
+  ],
+  "Wed": [
+    { "code": "25HSS131", "alias": "CE" },
+    { "code": "25ECE101", "alias": "ADLD" },
+    { "code": "25CSE102", "alias": "IPP" },
+    { "code": "25PHY102", "alias": "PHY" },
+    { "code": "25MAT106", "alias": "MAT" },
+    { "type": "free" },
+    { "code": "COMMUNITY ENGAGEMENT", "alias": "CE" }
+  ],
+  "Thu": [
+    { "code": "25MAT106", "alias": "MAT" },
+    { "code": "25HSS131", "alias": "CE" },
+    { "code": "25CSE102", "alias": "IPP" },
+    { "code": "25EEE102", "alias": "EEE" },
+    { "code": "25PHY102", "alias": "PHY" },
+    { "code": "25ECE101", "alias": "ADLD" },
+    { "code": "25ECE101", "alias": "ADLD", "type": "sl" }
+  ],
+  "Fri": [
+    { "code": "25HSS101", "alias": "COI" },
+    { "code": "25PHY102", "alias": "PHY" },
+    { "code": "25EEE102", "alias": "EEE" },
+    { "code": "25CSE102", "alias": "IPP", "type": "sl" },
+    { "code": "25MEC122", "alias": "EV" },
+    { "code": "25MEC122", "alias": "EV" },
+    { "code": "25MEC122", "alias": "EV" }
+  ]
+}

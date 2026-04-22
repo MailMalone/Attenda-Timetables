@@ -1,0 +1,59 @@
+{
+  "section": "X",
+  "department": "BT",
+  "room": "LC45",
+  "Mon": [
+    { "code": "25BTY112", "alias": "CMB" },
+    { "code": "25CIV111", "alias": "EM" },
+    { "code": "25MAT104", "alias": "MAT" },
+    { "code": "25PHY101", "alias": "PHY" },
+    { "code": "25CSE121", "alias": "IT SKILLS", "type": "practical" },
+    { "code": "25CSE121", "alias": "IT SKILLS", "type": "practical" },
+    { "type": "free" }
+  ],
+  "Tue": [
+    { "code": "25PHY101", "alias": "PHY" },
+    { "code": "25HSS131", "alias": "CE" },
+    { "code": "25MAT104", "alias": "MAT" },
+    { "code": "25CSE102", "alias": "IPP" },
+    { "code": "25MAT107", "alias": "MATLAB", "type": "practical" },
+    { "code": "25MAT107", "alias": "MATLAB", "type": "practical" },
+    { "type": "free" }
+  ],
+  "Wed": [
+    { "code": "25CIV111", "alias": "EM" },
+    { "code": "25BTY112", "alias": "CMB" },
+    { "code": "25PHY101", "alias": "PHY", "type": "practical" },
+    { "code": "25PHY101", "alias": "PHY", "type": "practical" },
+    { "code": "25PHY101", "alias": "PHY" },
+    { "code": "25CSE102", "alias": "IPP" },
+    { "code": "25CSE102", "alias": "IPP", "type": "sl" }
+  ],
+  "Thu": [
+    { "code": "25PHY101", "alias": "PHY" },
+    { "code": "25MAT104", "alias": "MAT" },
+    { "code": "25CSE102", "alias": "IPP", "type": "practical" },
+    { "code": "25CSE102", "alias": "IPP", "type": "practical" },
+    { "code": "25HSS131", "alias": "CE LAB", "type": "practical" },
+    { "code": "COMMUNITY ENGAGEMENT", "alias": "CE" },
+    { "type": "free" }
+  ],
+  "Fri": [
+    { "code": "25HSS131", "alias": "CE" },
+    { "code": "25CIV111", "alias": "EM" },
+    { "code": "25MAT104", "alias": "MAT" },
+    { "code": "25BTY112", "alias": "CMB" },
+    { "code": "25HSS101", "alias": "COI" },
+    { "code": "25CIV111", "alias": "EM", "type": "sl" },
+    { "code": "25BTY112", "alias": "CMB", "type": "sl" }
+  ],
+  "Sat": [
+    { "type": "free" },
+    { "type": "free" },
+    { "type": "free" },
+    { "code": "25UCC101", "alias": "SCR" },
+    { "type": "free" },
+    { "type": "free" },
+    { "type": "free" }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "section": "S",
+  "department": "ECE",
+  "room": "Roaming",
+  "Mon": [
+    { "code": "25PHY104", "alias": "PHY" },
+    { "code": "25ECE111", "alias": "BE" },
+    { "code": "25CSE101", "alias": "CPP", "type": "practical" },
+    { "code": "25CSE101", "alias": "CPP", "type": "practical" },
+    { "code": "25HSS101", "alias": "COI" },
+    { "code": "25MAT105", "alias": "MAT" },
+    { "code": "25ECE111", "alias": "BE", "type": "sl" }
+  ],
+  "Tue": [
+    { "code": "25PHY104", "alias": "PHY", "type": "practical" },
+    { "code": "25PHY104", "alias": "PHY", "type": "practical" },
+    { "code": "25MAT105", "alias": "MAT" },
+    { "code": "25CSE101", "alias": "CPP" },
+    { "code": "25HSS131", "alias": "CE LAB", "type": "practical" },
+    { "code": "25ECE111", "alias": "BE" },
+    { "code": "25CSE101", "alias": "CPP", "type": "sl" }
+  ],
+  "Wed": [
+    { "code": "25MAT107", "alias": "MATLAB", "type": "practical" },
+    { "code": "25MAT107", "alias": "MATLAB", "type": "practical" },
+    { "code": "25CSE121", "alias": "IT SKILLS", "type": "practical" },
+    { "code": "25CSE121", "alias": "IT SKILLS", "type": "practical" },
+    { "code": "25PHY104", "alias": "PHY" },
+    { "code": "25ECE101", "alias": "ADLD" },
+    { "code": "25ECE101", "alias": "ADLD", "type": "sl" }
+  ],
+  "Thu": [
+    { "code": "25HSS131", "alias": "CE" },
+    { "code": "25PHY104", "alias": "PHY" },
+    { "code": "25ECE111", "alias": "BE" },
+    { "code": "25ECE101", "alias": "ADLD" },
+    { "code": "25MAT105", "alias": "MAT" },
+    { "code": "COMMUNITY ENGAGEMENT", "alias": "CE" },
+    { "type": "free" }
+  ],
+  "Fri": [
+    { "code": "25HSS131", "alias": "CE" },
+    { "code": "25CSE101", "alias": "CPP" },
+    { "code": "25PHY104", "alias": "PHY" },
+    { "code": "25MAT105", "alias": "MAT" },
+    { "code": "25ECE101", "alias": "ADLD", "type": "practical" },
+    { "code": "25ECE101", "alias": "ADLD", "type": "practical" },
+    { "type": "free" }
+  ],
+  "Sat": [
+    { "type": "free" },
+    { "type": "free" },
+    { "type": "free" },
+    { "code": "25UCC101", "alias": "SCR" },
+    { "type": "free" },
+    { "type": "free" },
+    { "type": "free" }
+  ]
+}

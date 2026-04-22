@@ -1,0 +1,59 @@
+{
+  "section": "K",
+  "department": "AIML",
+  "room": "LC25",
+  "Mon": [
+    { "code": "25CHY104", "alias": "CHY" },
+    { "code": "25HSS102", "alias": "UHV" },
+    { "code": "25MEC122", "alias": "EV", "type": "practical" },
+    { "code": "25MEC122", "alias": "EV", "type": "practical" },
+    { "code": "25MAT106", "alias": "MAT" },
+    { "code": "25ECE101", "alias": "ADLD", "type": "sl" },
+    { "code": "25CSE102", "alias": "IPP", "type": "sl" }
+  ],
+  "Tue": [
+    { "code": "25ECE101", "alias": "ADLD" },
+    { "code": "25EEE102", "alias": "EEE" },
+    { "code": "25MAT106", "alias": "MAT" },
+    { "code": "25CSE102", "alias": "IPP" },
+    { "code": "25CHY104", "alias": "CHY" },
+    { "code": "25MEC122", "alias": "EV" },
+    { "code": "25CHY104", "alias": "CHY", "type": "sl" }
+  ],
+  "Wed": [
+    { "code": "25MAT106", "alias": "MAT" },
+    { "code": "25CHY104", "alias": "CHY" },
+    { "code": "25HSS102", "alias": "UHV" },
+    { "code": "25CIV104", "alias": "ESS" },
+    { "code": "25CHY104", "alias": "CHY", "type": "practical" },
+    { "code": "25CHY104", "alias": "CHY", "type": "practical" },
+    { "code": "25EEE102", "alias": "EEE", "type": "sl" }
+  ],
+  "Thu": [
+    { "code": "25ECE101", "alias": "ADLD", "type": "practical" },
+    { "code": "25ECE101", "alias": "ADLD", "type": "practical" },
+    { "code": "25MAT106", "alias": "MAT" },
+    { "code": "25EEE102", "alias": "EEE" },
+    { "code": "25CIV104", "alias": "ESS" },
+    { "code": "25ECE101", "alias": "ADLD" },
+    { "type": "free" }
+  ],
+  "Fri": [
+    { "code": "25CSE102", "alias": "IPP", "type": "practical" },
+    { "code": "25CSE102", "alias": "IPP", "type": "practical" },
+    { "code": "25CSE102", "alias": "IPP" },
+    { "code": "25BTY111", "alias": "BIO" },
+    { "code": "25EEE102", "alias": "EEE" },
+    { "type": "free" },
+    { "code": "COMMUNITY ENGAGEMENT", "alias": "CE" }
+  ],
+  "Sat": [
+    { "type": "free" },
+    { "type": "free" },
+    { "type": "free" },
+    { "code": "25UCC101", "alias": "SCR" },
+    { "type": "free" },
+    { "type": "free" },
+    { "type": "free" }
+  ]
+}

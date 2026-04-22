@@ -1,0 +1,50 @@
+{
+  "section": "D",
+  "department": "CSE",
+  "room": "LC11",
+  "Mon": [
+    { "code": "25CHY104", "alias": "CHY" },
+    { "code": "25CSE102", "alias": "IPP" },
+    { "code": "25MAT106", "alias": "MAT" },
+    { "code": "25HSS102", "alias": "UHV" },
+    { "code": "25ECE111", "alias": "BE" },
+    { "code": "25EEE102", "alias": "EEE" },
+    { "code": "25ECE111", "alias": "BE", "type": "sl" }
+  ],
+  "Tue": [
+    { "code": "25MEC122", "alias": "EV" },
+    { "code": "25MEC122", "alias": "EV" },
+    { "code": "25CSE102", "alias": "IPP" },
+    { "code": "25ECE111", "alias": "BE" },
+    { "code": "25CIV104", "alias": "ESS" },
+    { "code": "25CSE102", "alias": "IPP", "type": "sl" },
+    { "type": "free" }
+  ],
+  "Wed": [
+    { "code": "25MAT106", "alias": "MAT" },
+    { "code": "25HSS102", "alias": "UHV" },
+    { "code": "25EEE102", "alias": "EEE" },
+    { "code": "25CHY104", "alias": "CHY" },
+    { "code": "25CSE102", "alias": "IPP", "type": "practical" },
+    { "code": "25CSE102", "alias": "IPP", "type": "practical" },
+    { "code": "25EEE102", "alias": "EEE", "type": "sl" }
+  ],
+  "Thu": [
+    { "code": "25CHY104", "alias": "CHY" },
+    { "code": "25MAT106", "alias": "MAT" },
+    { "code": "25CHY104", "alias": "CHY", "type": "practical" },
+    { "code": "25CHY104", "alias": "CHY", "type": "practical" },
+    { "code": "25CHY104", "alias": "CHY", "type": "sl" },
+    { "type": "free" },
+    { "type": "free" }
+  ],
+  "Fri": [
+    { "code": "25EEE102", "alias": "EEE" },
+    { "code": "25CIV104", "alias": "ESS" },
+    { "code": "25ECE111", "alias": "BE" },
+    { "code": "25MEC122", "alias": "EV" },
+    { "code": "25MAT106", "alias": "MAT" },
+    { "code": "25BTY111", "alias": "BIO" },
+    { "code": "COMMUNITY ENGAGEMENT", "alias": "CE" }
+  ]
+}

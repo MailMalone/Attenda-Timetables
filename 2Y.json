@@ -1,0 +1,50 @@
+{
+  "section": "Y",
+  "department": "CV",
+  "room": "LC26",
+  "Mon": [
+    { "code": "25MAT107", "alias": "MATLAB", "type": "practical" },
+    { "code": "25MAT107", "alias": "MATLAB", "type": "practical" },
+    { "code": "25CIV111", "alias": "EM" },
+    { "code": "25MEC112", "alias": "EME" },
+    { "code": "25PHY103", "alias": "PHY" },
+    { "code": "25MAT104", "alias": "MAT" },
+    { "code": "COMMUNITY ENGAGEMENT", "alias": "CE" }
+  ],
+  "Tue": [
+    { "code": "25MAT104", "alias": "MAT" },
+    { "code": "25HSS131", "alias": "CE" },
+    { "code": "25MEC101", "alias": "CAEG", "type": "practical" },
+    { "code": "25MEC101", "alias": "CAEG", "type": "practical" },
+    { "type": "free" },
+    { "type": "free" },
+    { "type": "free" }
+  ],
+  "Wed": [
+    { "code": "25HSS101", "alias": "COI" },
+    { "code": "25MEC112", "alias": "EME" },
+    { "code": "25CIV111", "alias": "EM" },
+    { "code": "25PHY103", "alias": "PHY" },
+    { "code": "25MEC101", "alias": "CAEG", "type": "practical" },
+    { "code": "25MEC101", "alias": "CAEG", "type": "practical" },
+    { "type": "free" }
+  ],
+  "Thu": [
+    { "code": "25MEC112", "alias": "EME" },
+    { "code": "25MAT104", "alias": "MAT" },
+    { "code": "25CSE121", "alias": "IT SKILLS", "type": "practical" },
+    { "code": "25CSE121", "alias": "IT SKILLS", "type": "practical" },
+    { "code": "25PHY103", "alias": "PHY" },
+    { "code": "25HSS131", "alias": "CE LAB", "type": "practical" },
+    { "code": "25MEC112", "alias": "EME", "type": "sl" }
+  ],
+  "Fri": [
+    { "code": "25PHY103", "alias": "PHY" },
+    { "code": "25HSS131", "alias": "CE" },
+    { "code": "25PHY103", "alias": "PHY", "type": "practical" },
+    { "code": "25PHY103", "alias": "PHY", "type": "practical" },
+    { "code": "25MAT104", "alias": "MAT" },
+    { "code": "25CIV111", "alias": "EM" },
+    { "code": "25CIV111", "alias": "EM", "type": "sl" }
+  ]
+}
